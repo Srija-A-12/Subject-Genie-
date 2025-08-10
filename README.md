@@ -44,3 +44,28 @@ python app.py
  ```
 
 4.Open your browser at http://127.0.0.1:5000 to use the system. 🌐
+
+# 🗂️ Dataset
+The electives_dataset_with_domains.csv file contains the elective data with columns:
+* Elective
+* Semester
+* Domain
+* Category
+
+📝 Notes
+* The model uses GPU for better performance. ⚡
+* NLTK stopwords and tokenizers are required. 📥
+* Feel free to customize the dataset or add more query parsing features. 🔧
+
+
+
+# MIT License
+
+Copyright (c) 2025 Srija A
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
