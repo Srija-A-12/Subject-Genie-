@@ -1,0 +1,11 @@
+Semester,Elective,Category,Set,Domain
+4,Machine Learning,Sums + Theory,-,AI & Machine Learning
+4,Digital Image Processing,Easy,-,"Computer Vision, Image Processing, and Artificial Intelligence"
+4,Bio-Inspired Computation,Little Sums,-,Artificial Neural Networks (ANN) & AI
+5,Cloud Computing,Easy,-,Cloud Computing & Distributed Systems
+5,Cryptography,Sums + Little Theory,-,Cybersecurity & Cryptography
+6,Data Mining,Sums + Algo + Theory,Set 1,Machine Learning & Data Science
+6,Streaming Analysis,Easy,Set 1,Big Data & Real-time Data Processing
+6,Natural Language Processing,Theory + Little Sums,Set 2,AI & Machine Learning
+6,Database Security,Theory,Set 2,Cybersecurity & Database Management
+6,Information Storage,Easy,Set 2,Storage Systems & Cloud Computing
